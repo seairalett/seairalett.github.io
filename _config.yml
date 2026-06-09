@@ -227,9 +227,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
+  #portfolio:
+    #output: false
+    #permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -274,7 +274,7 @@ defaults:
       share: false
       comments: false
   # _portfolio
-  - scope:
+  - #scope:
       path: ""
       type: portfolio
     values:
