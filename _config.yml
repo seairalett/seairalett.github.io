@@ -274,7 +274,7 @@ defaults:
       share: false
       comments: false
   # _portfolio
-  - #scope:
+  #- scope:
       path: ""
       type: portfolio
     values:
