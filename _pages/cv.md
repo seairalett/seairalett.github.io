@@ -3,10 +3,13 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-lang: en
+lang: EN
 redirect_from:
   - /resume
 ---
+
+{% include base_path %}
+
 <ul>
 {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
 {% for post in posts %}
@@ -23,7 +26,6 @@ redirect_from:
 {% endfor %}
 </ul>
 
-{% include base_path %}
 <br>
 <div class="cv-download-links">
   <a href="{{ base_path }}/files/CV.pdf" class="btn btn--primary">Download full CV here</a>
