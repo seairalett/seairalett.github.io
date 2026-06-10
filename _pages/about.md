@@ -11,7 +11,7 @@ I am a PhD candidate in the Department of Linguistics at the University of Georg
 My research focuses on topics in the semantics and morphosyntax of the San Sebastián Coatán variety of Chuj, a Mayan language spoken primarily in Guatemala. 
 
 
-**Sobre mí**
+Sobre mí
 ============
 
 Soy estudiante de doctorado del departamento de lingüística de la universidad de Georgia. 
