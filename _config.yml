@@ -233,7 +233,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  resumenes:
+    output: true
+    permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -287,7 +289,15 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
+      author_profile: true
+      share: false
+    _resumenes
+    - scope:
+      path: ""
+      type: resumenes
+    values:
+      layout: resumenes
       author_profile: true
       share: false
 
