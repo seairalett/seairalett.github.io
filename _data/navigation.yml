@@ -22,6 +22,9 @@ main:
         
  # - title: "Blog Posts"
  #   url: /year-archive/
+ 
+ - title: "Resúmenes de mi trabajo en español"
+   url: /resumenes/
     
   - title: "CV"
     url: /cv/
@@ -32,5 +35,4 @@ main:
  # - title: "Guide"
  #   url: /markdown/
 
-  - title: "Resúmenes de mi trabajo en español"
-    url: /resumenes/
+
