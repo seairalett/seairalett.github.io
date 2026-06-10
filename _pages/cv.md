@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[You can download my full CV here](files/CV.pdf)
+
 Education
 ======
 * PhD in linguistics, University of Georgia, 2027 (expected)
@@ -21,9 +23,9 @@ Teaching
 
 * Workshop facilitator, Institute on Collaborative Language Research, University of Nevada, summer 2026
 
-* Spanish-English kindergarten teacher, Carver Dual Language School, Kansas City, MO
+* Spanish-English kindergarten teacher, Carver Dual Language School, Kansas City, MO, 2020-2022
 
-* Facilitator, Amigos de las Américas
+* Facilitator, Amigos de las Américas, 2021
   
 Languages
 ======
