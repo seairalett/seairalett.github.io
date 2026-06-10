@@ -8,14 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 <br>
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/CV.pdf" class="btn btn--primary">Download CV as PDF</a>
+  <a href="{{ base_path }}/files/CV.pdf" class="btn btn--primary">Download full CV here</a>
 </div>
 <br>
-
-
 Education
 ======
 * PhD in linguistics, University of Georgia, 2027 (expected)
