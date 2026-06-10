@@ -292,7 +292,7 @@ defaults:
       layout: single
       author_profile: true
       share: false
-    _resumenes
+   # _resumenes
     - scope:
       path: ""
       type: resumenes
